@@ -6,4 +6,9 @@
 		<Nullable>enable</Nullable>
 	</PropertyGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\DigiKala.Core.Contracts\DigiKala.Core.Contracts.csproj" />
+	  <ProjectReference Include="..\DigiKala.Core.Domain\DigiKala.Core.Domain.csproj" />
+	</ItemGroup>
+
 </Project>
