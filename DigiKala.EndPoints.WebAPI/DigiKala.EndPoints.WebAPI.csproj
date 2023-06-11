@@ -24,8 +24,4 @@
     <Folder Include="Areas\Admin\Views\" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\DigiKala.Core.Services.ApplicationServices\DigiKala.Services.ApplicationServices.csproj" />
-  </ItemGroup>
-
 </Project>
